@@ -1,6 +1,6 @@
 import React from 'react';
 
-function Jigar(props) {
+function SongInfo(props) {
     return (
         <div>
             <h3>
@@ -16,4 +16,4 @@ function Jigar(props) {
     )
 }
 
-export default Jigar;
+export default SongInfo;
